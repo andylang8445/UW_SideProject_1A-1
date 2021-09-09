@@ -7,3 +7,6 @@ The members of the project group are:
 * Hongjun Yun - a2yun@uwaterloo.ca
 * Joelle
 * Esther Cho
+
+
+<i>Documented by <b>Hongjun Yun</b> - a2yun@uwaterloo.ca at September 9, 2021</i>
