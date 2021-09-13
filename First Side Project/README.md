@@ -4,4 +4,6 @@ The purpose of this project to enhance the programming and structure designing s
 
 Idea initially came from Joelle and developed by Hongjun Yun and Joelle
 
-<i>Documented by <b>Hongjun Yun</b> - a2yun@uwaterloo.ca at September 9, 2021</i>
+Finalized Group members on: Andy(Hongjun) Yun, Joelle, Esther Cho, Seoyeon, Soyean.
+
+<i>Documented by <b>Hongjun Yun</b> - a2yun@uwaterloo.ca at September 9, 2021, updated on September 12</i>
