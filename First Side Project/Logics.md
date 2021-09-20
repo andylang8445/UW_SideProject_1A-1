@@ -10,3 +10,5 @@ The easy way is to check the answers when the user(on the client side) press the
 ## The Advanced Method
 We are referring tho this article: <a href="https://www.koreascience.or.kr/article/JAKO201718555882191.pdf">
 A Method to Expand a Complete Binary Tree using Greedy Method and Pruning in Sudoku Problems</a> as the reference algorithm.
+
+Documented by Hongjun Yun - a2yun@uwaterloo.ca on September 19th
